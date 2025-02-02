@@ -1,4 +1,4 @@
-TestCase Id,Test Case Description,,Test Steps,Expected Result,Actual Result,Status,Severity Level,Remarks,,,,,
+TestCase Id,Test Case Description,,Test Steps,,,Expected Result,,Actual Result,,,Status,Severity Level,Remarks
 TC001,Validate product listing page,,Open product page > Verify products,,,Products displayed correctly,,Products displayed correctly as expected,,,Passed,Low,No issues found
 TC002,Filter Products Functionality,,Test Search > Check Output,,,Result according to query,,Search product according to productname functionality working properly,,,Passsed,Low,No issues found
 TC003,Dynamic Routes,,Ensure Individual Page > Load Correctly,,,Dynamic page must work properly,,Dynamic routes work properly as expected,,,Passed,High,Work properly
