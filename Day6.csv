@@ -1,0 +1,9 @@
+Test Case ID,Description,,Steps,,,Expected Result,,Actual Result,,Status,Remarks
+TC001,Validate product listing,,Open product page > Verify products are listed,,,Products displayed correctly,,Products displayed correctly,,Passed,No issues found
+TC002,Check cart functionality,,Add product to cart > Verify cart updates correct pro,,,Cart updates correctly with item,,Cart updates correctly with item,,Passed,Works as expected
+TC003,Test category search functionality,,Search a product by name > Check if correct display,,,Correct product displayed  search,,Correct product displayed search,,Passed,Search works as expected
+TC004,Test product filter functionality,,Use filter options > Select a category and apply filter,,,Products filtered selected category,,Products filtered selected category,,Passed,Filter applied correctly
+TC005,Test API communication,,Disconnect API > Refresh page,,,Show fallback message,,Fallback message shown,,Passed,Handled gracefully
+TC006,Validate product detail page,,Open product page > Verify product details displayed,,,Product details correctly displayed,,Product details correctly displayed,,Passed,Dynamic route works correctly
+TC007,Check checkout process,,Proceed to checkout > Verify correct products select,,,"Correct products,total price shown",,"Correct products ,total price shown",,Passed,Checkout works as expected
+TC008,Validate input fields,,Fill in all form fields with valid data > Submit form,,,Form submits correctly valid inputs,,Form submits correctly valid inputs,,Passed,Input validation works correctly
